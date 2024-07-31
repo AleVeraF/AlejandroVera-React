@@ -1,0 +1,19 @@
+.Nav {
+    display: flex;
+    font-size: 25px;
+    color: rgb(148, 183, 212);
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(148, 183, 212);
+
+}
+
