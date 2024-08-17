@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "God of War",
+        "price": 30,
+        "stock": 3,
+        "image": "./imagenes/gow.png",
+        "category":"Exclusivos",
+        "description": "Video juego de acción y aventura"
+
+    }
+    {
+        "id": 2,
+        "name": "Returnal",
+        "price": 25,
+        "stock": 2,
+        "image": "./imagenes/returnal.png",
+        "category":"Shooter",
+        "description": "Video juego de acción y aventura tipo shooter/soul"
+
+    }
+    {
+        "id": 3,
+        "name": "Horizon Zero",
+        "price": 20,
+        "stock": 6,
+        "image": "./imagenes/horizon.png",
+        "category":"Exclusivos",
+        "description": "Video juego de acción y aventura, de mundo abierto"
+
+    }
+    {
+        "id": 4,
+        "name": "Spiderman 2",
+        "price": 40,
+        "stock": 1,
+        "image": "./imagenes/spiderman.png",
+        "category":"Exclusivos",
+        "description": "Video juego de acción y aventura, de superheroes"
+
+    }
+    {
+        "id": 5,
+        "name": "Fifa 2024",
+        "price": 35,
+        "stock": 9,
+        "image": "./imagenes/fifa.png",
+        "category":"Deportes",
+        "description": "Videojuego de futbol"
+
+    }
+    
+
+]
